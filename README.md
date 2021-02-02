@@ -1,2 +1,2 @@
-# resume1.github.io
+# resume1
 My Personal Resume
